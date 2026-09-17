@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-6376.32,-6006.27)">
+        <g transform="matrix(1,0,0,1,2500,0)">
+            <g transform="matrix(-0.437079,0,0,0.437079,4192.8,5804.57)">
+                <path d="M724.091,483.431C724.091,471.301 714.257,461.467 702.127,461.467C702.127,461.467 702.127,461.467 702.127,461.467L702.127,571.287C702.127,571.287 702.129,571.287 702.132,571.287C707.956,571.287 713.541,568.973 717.659,564.855C721.777,560.737 724.091,555.152 724.091,549.328C724.091,530.188 724.091,502.572 724.091,483.431Z" style="fill:rgb(32,106,1);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,2500,0)">
+            <g transform="matrix(-0.437079,0,0,0.437079,4212,5804.57)">
+                <rect x="724.091" y="461.467" width="21.964" height="109.82" style="fill:rgb(66,136,9);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,2500,0)">
+            <g transform="matrix(-0.437079,0,0,0.437079,4231.2,5804.57)">
+                <rect x="746.055" y="461.467" width="21.964" height="109.82" style="fill:rgb(119,176,45);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,2500,0)">
+            <g transform="matrix(-0.437079,0,0,0.437079,4250.4,5804.57)">
+                <rect x="768.019" y="461.467" width="21.964" height="109.82" style="fill:rgb(161,200,80);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,2500,0)">
+            <g transform="matrix(-0.437079,0,0,0.437079,4269.6,5804.57)">
+                <path d="M811.947,461.467L811.942,461.467C806.118,461.467 800.533,463.781 796.415,467.899C792.297,472.017 789.983,477.602 789.983,483.426C789.983,502.568 789.983,530.186 789.983,549.328C789.983,555.152 792.297,560.737 796.415,564.855C800.533,568.973 806.118,571.287 811.942,571.287C811.945,571.287 811.947,571.287 811.947,571.287L811.947,461.467Z" style="fill:rgb(202,223,131);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,2500,0)">
+            <g transform="matrix(0.0690853,0,0,0.0664282,3864.61,5998.48)">
+                <g transform="matrix(150.438,0,0,150.438,839.585,536.77)">
+                </g>
+                <text x="187.563px" y="536.77px" style="font-family:'ArialMT', 'Arial';font-size:150.438px;fill:white;">EKORAI<tspan x="755.919px " y="536.77px ">L</tspan></text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,2500,0)">
+            <g transform="matrix(0.0690853,0,0,0.0664282,3876.22,6004.12)">
+                <g transform="matrix(65.6896,0,0,65.6896,510.118,536.769)">
+                </g>
+                <text x="187.563px" y="536.769px" style="font-family:'ArialMT', 'Arial';font-size:65.69px;fill:white;">– D <tspan x="304.377px 344.559px 361.614px 400.544px 415.162px 455.343px 473.585px " y="536.769px 536.769px 536.769px 536.769px 536.769px 536.769px 536.769px ">A T A –</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>
